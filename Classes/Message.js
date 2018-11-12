@@ -1,0 +1,4 @@
+function showMessage()
+{
+    window.alert("Marches olfactives\nCe projet collaboratif vise à cartographier le sensible en milieu urbain.\nÀ partir de marches olfactives réalisées dans la ville de Saint-Étienne, ce travail souhaite rendre compte d’une cartographie olfactive évolutive. Les nœuds olfactifs représentent autant d’étapes sensibles pour tracer en filigrane un chemin odorant. Outre la catégorisation des odeurs par code couleur, les valeurs d’intensité, de valence et de familiarité rattachées à chaque odeur, permettent à la fois une visualisation olfactive synthétique et exhaustive d’une urbanité donnée. Ainsi, linguistes, urbanistes et développeurs de l’université de Saint-Étienne souhaitent-ils interroger les manifestations sensorielles des urbanités contemporaines. ");
+}

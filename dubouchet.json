@@ -1,0 +1,1329 @@
+[
+    [
+        {
+            "types": "floral fruity vegetable earthy offensive fishy chemical medicinal cooking",
+            "colors": "0xecaecd 0xfcf75e 0x9ac066 0x674c2b 0xff1111 0xa1bdd4 0xf5720a 0xffffff 0xffdcb0"
+        }
+    ],
+
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 1,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:00",
+            "type": "chemical",
+            "subtype": "cigarette",
+            "weight": 2,
+            "links": [
+                2
+            ],
+            "custom": [
+                3,
+                6,
+                9
+            ]
+        },
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 2,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:07",
+            "type": "earthy",
+            "subtype": "pluie",
+            "weight": 2,
+            "links": [
+                3
+            ],
+            "custom": [
+                5,
+                7,
+                8
+            ]
+        },
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 3,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:14",
+            "type": "offensive",
+            "subtype": "urine",
+            "weight": 2,
+            "links": [
+                4
+            ],
+            "custom": [
+                1,
+                4,
+                7
+            ]
+        },
+        {
+            "lat": 45.4216031,
+            "lon": 4.3971544,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 4,
+            "place": "rue Antoine Durafour, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:21",
+            "type": "chemical",
+            "subtype": "pot \u00e9chappement",
+            "weight": 2,
+            "links": [
+                5
+            ],
+            "custom": [
+                4,
+                5,
+                7
+            ]
+        },
+        {
+            "lat": 45.4216031,
+            "lon": 4.3971544,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 5,
+            "place": "rue Antoine Durafour, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:28",
+            "type": "cooking",
+            "subtype": "Kebab",
+            "weight": 2,
+            "links": [
+                6
+            ],
+            "custom": [
+                7,
+                6,
+                7
+            ]
+        },
+        {
+            "lat": 45.4265593,
+            "lon": 4.3922595169811,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 6,
+            "place": "10 rue Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:35",
+            "type": "earthy",
+            "subtype": "sable mouill\u00e9",
+            "weight": 2,
+            "links": [
+                7
+            ],
+            "custom": [
+                4,
+                4,
+                6
+            ]
+        },
+        {
+            "lat": 45.4265593,
+            "lon": 4.3922595169811,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 7,
+            "place": "10 rue Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:42",
+            "type": "floral",
+            "subtype": "parfum floral",
+            "weight": 2,
+            "links": [
+                8
+            ],
+            "custom": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "lat": 45.4265593,
+            "lon": 4.3922595169811,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 8,
+            "place": "10 rue Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:49",
+            "type": "offensive",
+            "subtype": "chien",
+            "weight": 2,
+            "links": [
+                9
+            ],
+            "custom": [
+                1,
+                8,
+                8
+            ]
+        },
+        {
+            "lat": 45.4265593,
+            "lon": 4.3922595169811,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 9,
+            "place": "10 rue Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:56",
+            "type": "floral",
+            "subtype": "fleurs",
+            "weight": 2,
+            "links": [
+                10
+            ],
+            "custom": [
+                8,
+                6,
+                7
+            ]
+        },
+        {
+            "lat": 45.42384185,
+            "lon": 4.3919702211816,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 10,
+            "place": "Place Jules Ferry, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:03",
+            "type": "floral",
+            "subtype": "pin",
+            "weight": 2,
+            "links": [
+                11
+            ],
+            "custom": [
+                6,
+                3,
+                5
+            ]
+        },
+        {
+            "lat": 45.4234095,
+            "lon": 4.3920698,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 11,
+            "place": "Centre 2, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:10",
+            "type": "cooking",
+            "subtype": "mcdo",
+            "weight": 2,
+            "links": [
+                12
+            ],
+            "custom": [
+                2,
+                8,
+                7
+            ]
+        },
+        {
+            "lat": 45.4234095,
+            "lon": 4.3920698,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 12,
+            "place": "Centre 2, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:17",
+            "type": "floral",
+            "subtype": "Sephora",
+            "weight": 2,
+            "links": [
+                13
+            ],
+            "custom": [
+                2,
+                8,
+                7
+            ]
+        },
+        {
+            "lat": 45.4259354,
+            "lon": 4.3910972,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 13,
+            "place": "2 Rue du Onze Novembre, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:24",
+            "type": "cooking",
+            "subtype": "Bread",
+            "weight": 2,
+            "links": [
+                14
+            ],
+            "custom": [
+                7,
+                7,
+                8
+            ]
+        },
+        {
+            "lat": 45.4259354,
+            "lon": 4.3910972,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 14,
+            "place": "82 Rue du Onze Novembre, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:31",
+            "type": "cooking",
+            "subtype": "Pizza",
+            "weight": 2,
+            "links": [
+                15
+            ],
+            "custom": [
+                6,
+                6,
+                7
+            ]
+        },
+        {
+            "lat": 45.4230925,
+            "lon": 4.3941715036658,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 15,
+            "place": "Centre Deux, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:38",
+            "type": "offensive",
+            "subtype": "Poubelle",
+            "weight": 2,
+            "links": [
+                16
+            ],
+            "custom": [
+                7,
+                4,
+                6
+            ]
+        },
+        {
+            "lat": 45.4230925,
+            "lon": 4.3941715036658,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 16,
+            "place": "Centre Deux, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:45",
+            "type": "chemical",
+            "subtype": "Cigarette",
+            "weight": 2,
+            "links": [
+                17
+            ],
+            "custom": [
+                6,
+                5,
+                4
+            ]
+        },
+        {
+            "lat": 45.4230925,
+            "lon": 4.3941715036658,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 17,
+            "place": "Centre Deux, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:52",
+            "type": "chemical",
+            "subtype": "embrayage",
+            "weight": 2,
+            "links": [
+                18
+            ],
+            "custom": [
+                7,
+                6,
+                4
+            ]
+        },
+        {
+            "lat": 45.4259354,
+            "lon": 4.3910972,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 18,
+            "place": "64 rue du Onze novembre, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:59",
+            "type": "fruity",
+            "subtype": "shampooing",
+            "weight": 2,
+            "links": [
+                19
+            ],
+            "custom": [
+                6,
+                5,
+                5
+            ]
+        },
+        {
+            "lat": 45.4294355,
+            "lon": 4.3900397,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 19,
+            "place": "9 rue du Onze novembre, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "13:06",
+            "type": "earthy",
+            "subtype": "livre ancien",
+            "weight": 2,
+            "links": [
+                20
+            ],
+            "custom": [
+                5,
+                6,
+                5
+            ]
+        },
+        {
+            "lat": 45.42564555,
+            "lon": 4.3931541606626,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 20,
+            "place": "11 Rue Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "13:13",
+            "type": "vegetable",
+            "subtype": "nourriture",
+            "weight": 2,
+            "links": [
+                21
+            ],
+            "custom": [
+                5,
+                6,
+                6
+            ]
+        },
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 21,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "13:20",
+            "type": "chemical",
+            "subtype": "produit entretien",
+            "weight": 2,
+            "links": [
+                22
+            ],
+            "custom": [
+                6,
+                7,
+                4
+            ]
+        },
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 22,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "13:27",
+            "type": "vegetable",
+            "subtype": "nourriture",
+            "weight": 2,
+            "links": [
+                23
+            ],
+            "custom": [
+                6,
+                5,
+                4
+            ]
+        },
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 23,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "13:34",
+            "type": "cooking",
+            "subtype": "caf\u00e9",
+            "weight": 2,
+            "links": [
+                0
+            ],
+            "custom": [
+                7,
+                6,
+                7
+            ]
+        },
+        {
+            "lat": 45.4259354,
+            "lon": 4.3910972,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 24,
+            "place": "rue du Onze Novembre, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:18",
+            "type": "cooking",
+            "subtype": "kebab",
+            "weight": 2,
+            "links": [
+                25
+            ],
+            "custom": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.427524,
+            "lon": 4.3911427,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 25,
+            "place": "rue L\u00e9on Portier, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:25",
+            "type": "chemical",
+            "subtype": "Gasoline",
+            "weight": 2,
+            "links": [
+                26
+            ],
+            "custom": [
+                1,
+                5,
+                10
+            ]
+        },
+        {
+            "lat": 45.428712,
+            "lon": 4.3912069,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 26,
+            "place": "rue Voltaire, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:32",
+            "type": "floral",
+            "subtype": "Sweet",
+            "weight": 2,
+            "links": [
+                27
+            ],
+            "custom": [
+                6,
+                4,
+                6
+            ]
+        },
+        {
+            "lat": 45.428712,
+            "lon": 4.3912069,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 27,
+            "place": "rue Voltaire, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:39",
+            "type": "earthy",
+            "subtype": "Water",
+            "weight": 2,
+            "links": [
+                28
+            ],
+            "custom": [
+                8,
+                3,
+                10
+            ]
+        },
+        {
+            "lat": 45.430472,
+            "lon": 4.3908961,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 28,
+            "place": "rue Michelet, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:46",
+            "type": "chemical",
+            "subtype": "Gasoline",
+            "weight": 2,
+            "links": [
+                29
+            ],
+            "custom": [
+                10,
+                6,
+                10
+            ]
+        },
+        {
+            "lat": 45.4298071,
+            "lon": 4.3910067,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 29,
+            "place": "66 rue Michelet, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:53",
+            "type": "offensive",
+            "subtype": "dust",
+            "weight": 2,
+            "links": [
+                30
+            ],
+            "custom": [
+                2,
+                5,
+                10
+            ]
+        },
+        {
+            "lat": 45.4302762,
+            "lon": 4.3908734,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 30,
+            "place": "60 rue Michelet, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:00",
+            "type": "offensive",
+            "subtype": "Liquid_manure",
+            "weight": 2,
+            "links": [
+                31
+            ],
+            "custom": [
+                1,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.43111,
+            "lon": 4.3888531,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 31,
+            "place": "3 rue du G\u00e9n\u00e9ral Leclerc, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:07",
+            "type": "offensive",
+            "subtype": "Fecal",
+            "weight": 2,
+            "links": [
+                32
+            ],
+            "custom": [
+                1,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4314284,
+            "lon": 4.3886163,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 32,
+            "place": "Cours Jovin Bouchard, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:14",
+            "type": "earthy",
+            "subtype": "Grassy",
+            "weight": 2,
+            "links": [
+                33
+            ],
+            "custom": [
+                10,
+                8,
+                9
+            ]
+        },
+        {
+            "lat": 45.430883,
+            "lon": 4.3896512,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 33,
+            "place": "Place Anatole France, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:21",
+            "type": "floral",
+            "subtype": "Garlic",
+            "weight": 2,
+            "links": [
+                34
+            ],
+            "custom": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.430883,
+            "lon": 4.3896512,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 34,
+            "place": "Place Anatole France, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:28",
+            "type": "cooking",
+            "subtype": "Coffee",
+            "weight": 2,
+            "links": [
+                35
+            ],
+            "custom": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 35,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:35",
+            "type": "chemical",
+            "subtype": "Cigarette",
+            "weight": 2,
+            "links": [
+                36
+            ],
+            "custom": [
+                1,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 36,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:42",
+            "type": "offensive",
+            "subtype": "Urine",
+            "weight": 2,
+            "links": [
+                37
+            ],
+            "custom": [
+                1,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 37,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:49",
+            "type": "floral",
+            "subtype": "Lila",
+            "weight": 2,
+            "links": [
+                38
+            ],
+            "custom": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4272705,
+            "lon": 4.390644,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 38,
+            "place": "Tr\u00e9filerie, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:56",
+            "type": "cooking",
+            "subtype": "Bread",
+            "weight": 2,
+            "links": [
+                0
+            ],
+            "custom": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4419814,
+            "lon": 4.3867695,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 39,
+            "place": "Place Jean Jaur\u00e8s, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:00",
+            "type": "chemical",
+            "subtype": "Bleach",
+            "weight": 2,
+            "links": [
+                40
+            ],
+            "custom": [
+                1,
+                5,
+                5
+            ]
+        },
+        {
+            "lat": 45.4415558,
+            "lon": 4.3836473,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 40,
+            "place": "2 Rue Praire, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:03",
+            "type": "cooking",
+            "subtype": "PopCorn",
+            "weight": 2,
+            "links": [
+                41
+            ],
+            "custom": [
+                10,
+                6,
+                10
+            ]
+        },
+        {
+            "lat": 45.4419814,
+            "lon": 4.3867695,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 41,
+            "place": "11 bis Place Jean Jaur\u00e8s, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:06",
+            "type": "cooking",
+            "subtype": "Bread",
+            "weight": 2,
+            "links": [
+                42
+            ],
+            "custom": [
+                10,
+                8,
+                10
+            ]
+        },
+        {
+            "lat": 45.4424079,
+            "lon": 4.3802732,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 42,
+            "place": "rue Victor Duchamp, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:09",
+            "type": "cooking",
+            "subtype": "Bread",
+            "weight": 2,
+            "links": [
+                43
+            ],
+            "custom": [
+                10,
+                8,
+                10
+            ]
+        },
+        {
+            "lat": 45.4422259,
+            "lon": 4.3822654,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 43,
+            "place": "Place Jacquard, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:12",
+            "type": "fishy",
+            "subtype": "Fish",
+            "weight": 2,
+            "links": [
+                44
+            ],
+            "custom": [
+                3,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4422259,
+            "lon": 4.3822654,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 44,
+            "place": "Place Jacquard, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:15",
+            "type": "fruity",
+            "subtype": "Fruit",
+            "weight": 2,
+            "links": [
+                45
+            ],
+            "custom": [
+                10,
+                6,
+                10
+            ]
+        },
+        {
+            "lat": 45.4422259,
+            "lon": 4.3822654,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 45,
+            "place": "Place Jacquard, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:18",
+            "type": "offensive",
+            "subtype": "toilet",
+            "weight": 2,
+            "links": [
+                46
+            ],
+            "custom": [
+                1,
+                8,
+                5
+            ]
+        },
+        {
+            "lat": 45.43501065,
+            "lon": 4.3867695,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 46,
+            "place": "3 Place Jean Jaur\u00e8s, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:21",
+            "type": "cooking",
+            "subtype": "Pizza",
+            "weight": 2,
+            "links": [
+                47
+            ],
+            "custom": [
+                10,
+                8,
+                10
+            ]
+        },
+        {
+            "lat": 45.4419814,
+            "lon": 4.3867695,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 47,
+            "place": "11 Place Jean Jaur\u00e8s, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:24",
+            "type": "chemical",
+            "subtype": "cigarette",
+            "weight": 2,
+            "links": [
+                48
+            ],
+            "custom": [
+                1,
+                8,
+                6
+            ]
+        },
+        {
+            "lat": 45.4419814,
+            "lon": 4.3867695,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 48,
+            "place": "Place Jean Jaur\u00e8s, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:27",
+            "type": "earthy",
+            "subtype": "herb",
+            "weight": 2,
+            "links": [
+                49
+            ],
+            "custom": [
+                10,
+                8,
+                10
+            ]
+        },
+        {
+            "lat": 45.4419814,
+            "lon": 4.3867695,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 49,
+            "place": "Place Jean Jaur\u00e8s, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:30",
+            "type": "chemical",
+            "subtype": "fry",
+            "weight": 2,
+            "links": [
+                50
+            ],
+            "custom": [
+                1,
+                8,
+                6
+            ]
+        },
+        {
+            "lat": 45.4419814,
+            "lon": 4.3867695,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 50,
+            "place": "Place Jean Jaur\u00e8s, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:33",
+            "type": "fruity",
+            "subtype": "Candy",
+            "weight": 2,
+            "links": [
+                51
+            ],
+            "custom": [
+                10,
+                7,
+                10
+            ]
+        },
+        {
+            "lat": 45.4419814,
+            "lon": 4.3867695,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 51,
+            "place": "Place Jean Jaur\u00e8s, 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:36",
+            "type": "earthy",
+            "subtype": "stale",
+            "weight": 2,
+            "links": [
+                52
+            ],
+            "custom": [
+                5,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4407002,
+            "lon": 4.3854078,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 52,
+            "place": "7 Place Jean Jaur\u00e8s , 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:39",
+            "type": "floral",
+            "subtype": "flower",
+            "weight": 2,
+            "links": [
+                53
+            ],
+            "custom": [
+                7,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4419814,
+            "lon": 4.3867695,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 53,
+            "place": "Place Jean Jaur\u00e8s , 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:42",
+            "type": "fruity",
+            "subtype": "candy",
+            "weight": 2,
+            "links": [
+                54
+            ],
+            "custom": [
+                10,
+                8,
+                10
+            ]
+        },
+        {
+            "lat": 45.4415978,
+            "lon": 4.3837374,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 54,
+            "place": "10 rue Praire , 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:45",
+            "type": "floral",
+            "subtype": "spice",
+            "weight": 2,
+            "links": [
+                55
+            ],
+            "custom": [
+                8,
+                6,
+                6
+            ]
+        },
+        {
+            "lat": 45.4422259,
+            "lon": 4.3822654,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 55,
+            "place": "Place Jacquard , 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:48",
+            "type": "chemical",
+            "subtype": "cleaning_product",
+            "weight": 2,
+            "links": [
+                56
+            ],
+            "custom": [
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "lat": 45.4439892,
+            "lon": 4.3811702,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 56,
+            "place": "Rue Beno\u00eet Malon , 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:48",
+            "type": "earthy",
+            "subtype": "nature",
+            "weight": 2,
+            "links": [
+                57
+            ],
+            "custom": [
+                10,
+                6,
+                10
+            ]
+        },
+        {
+            "lat": 45.4415505,
+            "lon": 4.3873603,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 57,
+            "place": "8 place Jean Jaur\u00e8s , 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:51",
+            "type": "cooking",
+            "subtype": "burger",
+            "weight": 2,
+            "links": [
+                58
+            ],
+            "custom": [
+                8,
+                8,
+                8
+            ]
+        },
+        {
+            "lat": 45.4396857,
+            "lon": 4.3858209,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 58,
+            "place": "9 rue de la R\u00e9sistance , 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:54",
+            "type": "cooking",
+            "subtype": "beer",
+            "weight": 2,
+            "links": [
+                59
+            ],
+            "custom": [
+                8,
+                10,
+                10
+            ]
+        },
+        {
+            "lat": 45.4419313,
+            "lon": 4.3859428,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 59,
+            "place": "17 place Jean Jaur\u00e8s , 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "11:57",
+            "type": "chemical",
+            "subtype": "Cleaning_product",
+            "weight": 2,
+            "links": [
+                60
+            ],
+            "custom": [
+                6,
+                6,
+                5
+            ]
+        },
+        {
+            "lat": 45.4446392,
+            "lon": 4.3855321,
+            "map": "dubouchet",
+            "orientation": 45,
+            "from": "Test Map Dubouchet",
+            "id": 60,
+            "place": "31 rue Charles de Gaulle , 42100 Saint-Etienne, France",
+            "date": "2018-04-23",
+            "hour": "12:00",
+            "type": "earthy",
+            "subtype": "Paper",
+            "weight": 2,
+            "links": [
+                0
+            ],
+            "custom": [
+                7,
+                5,
+                5
+            ]
+        }
+]
